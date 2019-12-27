@@ -1,0 +1,7 @@
+package com.test;
+
+public class test2 {
+    public void test(){
+        System.out.printf("hello");
+    }
+}
