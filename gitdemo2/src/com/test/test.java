@@ -7,4 +7,9 @@ public class test {
         System.out.printf("asd");
         System.out.printf("asd");
     }
+    public void test(){
+        int i = 0;
+        i += 10;
+
+    }
 }
